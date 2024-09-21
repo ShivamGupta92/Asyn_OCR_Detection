@@ -55,6 +55,11 @@ This documentation explains how to perform Optical Character Recognition (OCR) o
   - **Fault Tolerance**: Intermediate results are saved after each batch, ensuring that no data is lost in case of a crash.
 
 ---
+## Results
+![WhatsApp Image 2024-09-16 at 09 56 14_7cceb7d4](https://github.com/user-attachments/assets/2bae2d1b-3f8c-4fa2-a5b0-5350c78c6ca7)
+
+![WhatsApp Image 2024-09-16 at 09 53 29_3eadbfef](https://github.com/user-attachments/assets/738e7459-ccc2-4eea-8c22-387b0f6efb80)
+
 
 ## Benefits of this Approach vs. Other OCR Methods
 
